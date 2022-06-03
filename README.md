@@ -1,2 +1,3 @@
-# codecademy-python3
-A place to post the codes for my codecademy projects.
+Hi! I'm currently self-learning Python. I have practically zero programming knowledge. 
+
+This is where I plan to dump all of my projects.
